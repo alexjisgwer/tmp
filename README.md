@@ -1,2 +1,2 @@
 # tmp
-<img src="graph.png" width=1000 height=500></img>
+<img src="graph.png" width=1500 height=1000></img>
